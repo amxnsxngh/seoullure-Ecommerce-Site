@@ -99,26 +99,6 @@ The visual direction focused on a soft premium K-beauty aesthetic using:
 
 ---
 
-## Screenshots
-
-### Homepage
-
-![Homepage](screenshots/homepage.png)
-
-### Product Page
-
-![Product Page](screenshots/product-page.png)
-
-### Collections Page
-
-![Collections](screenshots/collections.png)
-
-### Mobile View
-
-![Mobile View](screenshots/mobile-view.png)
-
----
-
 ## Repository Note
 
 This repository is used as a portfolio showcase for the Seoullure Shopify project.
