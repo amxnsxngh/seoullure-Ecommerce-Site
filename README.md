@@ -105,10 +105,3 @@ This repository is used as a portfolio showcase for the Seoullure Shopify projec
 
 Since the store is hosted and managed through Shopify, this repository does not contain a traditional codebase. Instead, it documents the project scope, setup process, design decisions and implementation work completed for the live store.
 
----
-
-## Author
-
-**Your Name**  
-GitHub: https://github.com/yourusername  
-LinkedIn: https://linkedin.com/in/yourprofile
